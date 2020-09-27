@@ -1,1 +1,2 @@
-Something to write into the new file
+Something to write into the new file 
+Added some updates directly in github.
